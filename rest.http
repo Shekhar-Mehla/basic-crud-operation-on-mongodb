@@ -1,0 +1,9 @@
+####restufull api for mongodb crud operation
+
+@baseurl = http://localhost:8000/api/v1/task
+POST {{baseurl}}
+Content-Type: application/json
+
+{
+  "name":"shelhar"
+}
