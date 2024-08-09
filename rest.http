@@ -5,5 +5,33 @@ POST {{baseurl}}
 Content-Type: application/json
 
 {
-  "name":"shelhar"
+  "name":"shelhar",
+  "mdfhfj":"mehladsfhtjky"
 }
+
+
+
+###
+GET {{baseurl}}
+
+
+###
+PATCH  {{baseurl}}
+Content-Type: application/json
+
+{
+  "_id": "66b58df7ad5a3c597c835309",
+    "name": "updatethis"
+}
+
+###
+PUT  {{baseurl}}
+Content-Type: application/json
+
+{
+  "_id": "66b58df7ad5a3c597c835309",
+    "hell0":"djfrjsd"
+}
+
+
+
